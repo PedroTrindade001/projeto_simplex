@@ -8,6 +8,6 @@
 
 ### Requisitos:
 Python >= 3  
-Executar no terminal:  
+### Executar no terminal:  
 pip install pulp  
 pip install matplotlib  
