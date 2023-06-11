@@ -7,7 +7,7 @@
 ## Pedro Trindade Francisco RA: 125111346772
 
 ### Requisitos:
-Python >= 3
+Python >= 3  
 Executar no terminal:  
 pip install pulp  
 pip install matplotlib  
